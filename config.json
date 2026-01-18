@@ -1,0 +1,20 @@
+{
+  "telegram": {
+    "botToken": "7865685830:AAE6dnpYk4EMeoyA_zvjgmrrlwpzJcPHCK",
+    "chatId": "1747619090"
+  },
+  "intervalSeconds": 60,
+  "tokens": [
+    {
+      "symbol": "TANSSI",
+      "name": "TANSSI",
+      "chain": "ethereum",
+      "pairAddress": "0xc492d0126cf891a0e6c445b96e2cde2268934a32e1055b317b6046f0621a9789",
+      "alert": {
+        "priceAbove": 0.02,
+        "priceBelow": 0.008,
+        "percentChange": 10
+      }
+    }
+  ]
+}
